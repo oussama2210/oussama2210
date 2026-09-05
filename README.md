@@ -112,67 +112,68 @@ Code written to be read, deployed, monitored, and maintained — not just to run
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff" />
-
-<br/><br/>
-
-**AI / Data**
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/LLM%20Workflows-000000?style=flat-square&logo=openai&logoColor=8B93A7" />
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
-
-<br/><br/>
-
-**Cloud / Infrastructure**
-
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff" />
-
-<br/><br/>
-
-**Web3 — Foundational**
-
-<img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=8A92B2" />
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=AAAAAA" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="18%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8" />
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/LLM%20Workflows-000000?style=flat-square&logo=openai&logoColor=8B93A7" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud / Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web3</b><br/><sub>foundational</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=8A92B2" />
+      <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=AAAAAA" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
